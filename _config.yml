@@ -17,3 +17,8 @@ back_to_top: true
 back_to_top_text: "Voltar ao topo"
 
 footer_content: "0xBGBGBG - Offensive Security Portfolio"
+
+gh_edit_link: false
+
+aux_links: {}
+
