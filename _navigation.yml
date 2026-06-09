@@ -1,1 +1,15 @@
+main:
+  - title: Home
+    url: /
 
+  - title: Writeups
+    url: /writeups/
+
+  - title: Notes
+    url: /notes/
+
+  - title: Tools
+    url: /tools/
+
+  - title: About
+    url: /about/
