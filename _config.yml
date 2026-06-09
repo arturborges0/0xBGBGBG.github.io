@@ -1,19 +1,19 @@
-```yaml
 title: 0xBGBGBG
 description: Offensive Security | Pentest | Writeups
 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 color_scheme: dark
 
 url: https://0xBGBGBG.github.io
 
-search_enabled: true
+plugins:
+  - jekyll-remote-theme
 
+search_enabled: true
 heading_anchors: true
 
 back_to_top: true
 back_to_top_text: "Voltar ao topo"
 
 footer_content: "0xBGBGBG - Offensive Security Portfolio"
-```
